@@ -19,3 +19,10 @@ To just generate one resume, use this:
 ```console
 $ ./generate.sh "md/example-resume.md"
 ```
+
+
+## Example output:
+
+[PDF Resume](./pdf/example-resume.pdf)
+
+[HTML Resume](./html/example-resume.html)
