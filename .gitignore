@@ -2,3 +2,6 @@
 .DS_Store
 pdf/*
 html/*
+md/*
+!md/example-resume.md
+.idea
