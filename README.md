@@ -21,6 +21,17 @@ $ ./generate.sh "md/example-resume.md"
 ```
 
 
+## Styles 
+
+If you want you can implement your own styles and override the default style.
+
+This can be done by copying the `/style/default` directory and create your own `/style/<style_name>` folder. When generating you are able to do:
+
+```console
+$ ./generate.sh "md/example-resume.md" "<style_name>"
+``` 
+
+
 ## Example output:
 
 [PDF Resume](./pdf/example-resume.pdf)
