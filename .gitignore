@@ -1,7 +1,10 @@
 
 .DS_Store
+docx/*
 pdf/*
+odt/*
 html/*
+img/*
 md/*
 !md/example-resume.md
 .idea
